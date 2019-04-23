@@ -1,3 +1,3 @@
 # frida-windows-playground
 
-A collection of frida hooks for experimentation with it on Windows platforms.
+A collection of Frida hooks for experimentation on Windows platforms.
